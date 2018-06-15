@@ -5,9 +5,10 @@
 本地的开发环境的ubuntu
 
 1、pyenv + virtualenv实现不同python版本的切换
-参考s安装地址
-https://blog.csdn.net/databatman/article/details/53955828
-https://www.jianshu.com/p/158d880b2d41
+
+* 参考安装地址
+    > https://blog.csdn.net/databatman/article/details/53955828
+    > https://www.jianshu.com/p/158d880b2d41
 
 sudo apt-get install curl git-core
 有个github的地址不能访问
