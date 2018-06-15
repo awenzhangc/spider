@@ -6,3 +6,6 @@ build/
 
 #ignore passwd file
 /passwd
+python_spider/
+
+
