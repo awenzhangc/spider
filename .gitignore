@@ -1,0 +1,8 @@
+*.pyc
+test/
+dist/
+build/
+.idea/
+
+#ignore passwd file
+/passwd
